@@ -1,6 +1,7 @@
 # Giant-Leap (JS13kgames-2021)
 
 As Neil Armstrong said on the moon, “That’s one small step for man, one giant leap for mankind.”
+
 Giant Leap is a 2D side-scrolling game.
 In this unknown universe, with limited oxygen, you will explore the brand new space and raise the flag and land on the 13K moon. But, be careful of the oncoming meteoroids! Have fun!
 
