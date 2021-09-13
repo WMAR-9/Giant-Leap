@@ -1,5 +1,4 @@
 # Giant-Leap (JS13kgames-2021)
-## I just finished my master's thesis >> Topic : Blockchain consensus mechanism .... so i need to sleep...
 <br>
 ---Complete the information two days after the next day----
 <br>
