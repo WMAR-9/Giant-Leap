@@ -1,6 +1,8 @@
 # Giant-Leap (JS13kgames-2021)
 ## I just finished my master's thesis >> Topic : Blockchain consensus mechanism .... so i need to sleep...
+<br>
 ---Complete the information two days after the next day----
+<br>
 As Neil Armstrong said on the moon, “That’s one small step for man, one giant leap for mankind.”
 
 ![](https://github.com/WMAR-9/Giant-Leap/raw/main/img/cover.png "Cover.png 400*250")
