@@ -21,5 +21,6 @@ R : Restart /lose or win
 
 Jump/Down/move::↕️ ←→ /arrow key 
 Space: Leap/Rush/must release Jump Button
+
 # Credits & Thanks
-Frank Force and [Keith Clark](https://github.com/keithclark) for their tiny sound & music players, ZzFX and [ZzFX Music](https://github.com/keithclark/ZzFXM) respectively!!!Awesome!
+[Frank Force](https://github.com/KilledByAPixel) and [Keith Clark](https://github.com/keithclark) for their tiny sound & music players, [ZzFX](https://github.com/KilledByAPixel/ZzFX) and [ZzFX Music](https://github.com/keithclark/ZzFXM) respectively!!!Awesome!
