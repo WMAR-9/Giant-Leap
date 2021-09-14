@@ -1,5 +1,6 @@
 # Giant-Leap (JS13kgames-2021)
-![](https://github.com/WMAR-9/Giant-Leap/raw/main/res/gif/Game-Stage-one.gif")
+<br>
+![Game-Stage-One](https://github.com/WMAR-9/Giant-Leap/raw/main/res/gif/Game-Stage-one.gif")
 <br>
 ---Complete the information two days after the next day----
 <br>
