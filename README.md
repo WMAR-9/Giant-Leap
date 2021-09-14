@@ -2,7 +2,9 @@
 # Giant-Leap (JS13kgames-2021)
 <br>
 
-![](https://github.com/WMAR-9/Giant-Leap/raw/main/res/gif/Game-Stage-one.gif)
+[![PlayStage1]](https://github.com/WMAR-9/Giant-Leap/blob/main/res/gif/Game-Stage-one.gif)
+
+[PlayStage1]: https://github.com/WMAR-9/Giant-Leap/raw/main/res/gif/Game-Stage-one.gif
 <br>
 ---Complete the information two days after the next day----
 <br>
