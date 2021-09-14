@@ -1,6 +1,8 @@
 # Giant-Leap (JS13kgames-2021)
+![](https://github.com/WMAR-9/Giant-Leap/raw/main/res/gif/Game-Stage-one.gif")
 <br>
 ---Complete the information two days after the next day----
+<br>
 <br>
 As Neil Armstrong said on the moon, “That’s one small step for man, one giant leap for mankind.”
 
