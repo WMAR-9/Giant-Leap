@@ -22,7 +22,7 @@ In this unknown universe, with limited oxygen, you will explore the brand new sp
 
 **Have fun!**
 
-#### Stage: Two Level,Seven Space!!
+### Stage: Two Level,Seven Space!!
  + Easy Level:
 	 + More oxygen/Time
 	 + Easy to landed the 13K moon
@@ -30,32 +30,32 @@ In this unknown universe, with limited oxygen, you will explore the brand new sp
 	 + Less oxygen/Time
 	 + More meteoroids and faster moving
 	 + Gain Higher score
-#### Control :
+### Control :
 + P : Pause
 + M : Music ON/OFF
 + R : Restart /lose or win
 + Move : ←→ /arrow key
 + Jump and Down :  ↕️
 + Leap/Rush : space (must release jump button)
-#### Coding tool :
+### Coding tool :
 I have no idea about other software. So use these two software to coding games.
  + [ ] Sublime
  + [ ] Firefox, Chrome
 
-#### Coding style :
+### Coding style :
 Class Object 
 <p>---Complete the information two days after the next day----
 
 
-#### Pattern and Font design : 
+### Pattern and Font design : 
 <p>---Complete the information two days after the next day----
 
 
-#### Sound :
+### Sound :
 
  - Using [ZzFX](https://github.com/KilledByAPixel/ZzFX)  & [ZzFX Music](https://github.com/keithclark/ZzFXM) to create sounds and songs.
 
-#### Conclusion :
+## Conclusion :
 <p>---Complete the information two days after the next day----
 
 ## Credits & Thanks
