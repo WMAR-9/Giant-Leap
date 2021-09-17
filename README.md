@@ -1,6 +1,7 @@
 
 # Giant-Leap (JS13kgames-2021)
 ### Tips- level 1 :
+
 [![PlayStage1]](https://github.com/WMAR-9/Giant-Leap/blob/main/res/gif/Game-Stage-one.gif)
 
 [PlayStage1]: https://github.com/WMAR-9/Giant-Leap/raw/main/res/gif/Game-Stage-one.gif
@@ -9,7 +10,6 @@
 | cover 400*250| thumbnail 160*160|
 |-|-|
 |![enter image description here](https://github.com/WMAR-9/Giant-Leap/raw/main/img/begining.jpg)|![enter image description here](https://github.com/WMAR-9/Giant-Leap/raw/main/img/Win.jpg)|
-|--|--|
 |beginning|win|
 
 ## About this game
