@@ -5,6 +5,7 @@
 [![PlayStage1]](https://github.com/WMAR-9/Giant-Leap/blob/main/res/gif/Game-Stage-one.gif)
 
 [PlayStage1]: https://github.com/WMAR-9/Giant-Leap/raw/main/res/gif/Game-Stage-one.gif
+
 |![](https://github.com/WMAR-9/Giant-Leap/raw/main/img/cover.png)|![](https://github.com/WMAR-9/Giant-Leap/raw/main/img/back.png)|
 |-|-|
 | cover 400*250| thumbnail 160*160|
