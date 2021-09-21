@@ -37,7 +37,7 @@ In this unknown universe, with limited oxygen, you will explore the brand new sp
 + M : Music ON/OFF
 + R : Restart /lose or win
 + Move : ←→ /arrow key
-+ Jump and Down :  ↕️
++ Jump and Down :  ↕️ /arrow key
 + Leap/Rush : space (must release jump button)
 ### Coding tool :
 I have no idea about other software. So use these two software to coding games.
